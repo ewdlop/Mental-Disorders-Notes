@@ -95,3 +95,11 @@ Close Monitoring:
 Coordination among healthcare providers to prevent unnecessary treatments or procedures.
 Related Condition: Munchausen Syndrome by Proxy (Factitious Disorder Imposed on Another):
 This is a severe form where a caregiver (often a parent) induces or fabricates illness in someone else, usually a child, to gain attention or sympathy.
+
+#
+Illness anxiety disorder (hypochondria)
+A chronic mental illness in which a person has an intense fear of having a serious medical condition, even if they have few or no symptoms. People with this disorder may misinterpret normal bodily functions as signs of illness. 
+Psychosomatic disorder
+A disorder in which stress makes a physical condition worse. The stress may or may not be related to physical ailments. 
+Conversion disorder
+A disorder in which a person experiences symptoms such as numbness, blindness, or trouble walking that tend to come on suddenly. These symptoms may last for a long time or may go away quickly. 
