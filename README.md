@@ -34,7 +34,7 @@
 
 - Alcohol-use-disorder:
 
-- Grandiose delusions:
+- Grandiose Delusions(GOD):
 
 - 
 
