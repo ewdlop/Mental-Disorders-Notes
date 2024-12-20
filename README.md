@@ -26,10 +26,18 @@
 
 - Apophenia : 好姊妹 disorder
 
-- Dysautonomia : nervous disorder
+- Dysautonomia : Nervous disorder
 
 - Paranoia: 
 
-- clubbing disorder:
+- Clubbing disorder:
+
+- Alcohol-use-disorder:
+
+- Grandiose delusions:
+
+- 
+
+- persecutory delusions:
 
 - 
