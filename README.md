@@ -29,3 +29,7 @@
 - Dysautonomia : nervous disorder
 
 - Paranoia: 
+
+- clubbing disorder:
+
+- 
