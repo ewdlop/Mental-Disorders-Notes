@@ -88,6 +88,10 @@ Medication:
 Antidepressants or anti-anxiety medication if comorbid conditions are present.
 Close Monitoring:
 
+- Talking Head Syndrome
+
+- Exploding Head Syndrome (EHS)
+
 Coordination among healthcare providers to prevent unnecessary treatments or procedures.
 Related Condition: Munchausen Syndrome by Proxy (Factitious Disorder Imposed on Another):
 This is a severe form where a caregiver (often a parent) induces or fabricates illness in someone else, usually a child, to gain attention or sympathy.
