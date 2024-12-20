@@ -38,6 +38,6 @@
 
 - 
 
-- persecutory delusions:
+- Persecutory Delusions:
 
 - 
