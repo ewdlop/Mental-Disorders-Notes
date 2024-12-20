@@ -25,3 +25,7 @@
 - Pareidolia : 好兄弟 disorder
 
 - Apophenia : 好姊妹 disorder
+
+- Dysautonomia : nervous disorder
+
+- Paranoia: 
