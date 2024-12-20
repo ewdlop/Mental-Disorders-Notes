@@ -16,6 +16,12 @@
   
 - Borderline personality disorder: A mental disorder
 
-- narcissistic personality disorder: : A mental disorder
+- Narcissistic personality disorder: A mental disorder
 
-- 
+- Autism spectrum disorder: A mental disorder
+
+- Ophidianthropy : A self-identity disorder
+
+- Pareidolia : 好兄弟 disorder
+
+- Apophenia : 好姊妹 disorder
