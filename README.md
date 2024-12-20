@@ -40,4 +40,4 @@
 
 - Persecutory Delusions:
 
-- 
+- Korsakoff syndrome (KS): is a disorder of the central nervous system characterized by amnesia, deficits(an excess) in explicit memory, and confabulation(Korsakoff syndrome).
