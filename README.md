@@ -183,4 +183,6 @@ The phrase "things aren't what they look like" can metaphorically describe a ran
 ---
 
 ### **Conclusion**
-The idea of "things not being what they look like" ties into many psychological phenomena involving misinterpretation, false beliefs, or altered perceptions. If you're thinking about a specific example or experience, I can help narrow it down further or provide practical insights!
+The idea of "things not being what they look like" ties into many psychological phenomena involving misinterpretation, false beliefs, or altered perceptions. If you're thinking about a specific example or experience, I can help narrow it down further or provide practical insights!\
+
+## Exploding Head Syndrome(it sounds like your eardrum is too sensitive) 
