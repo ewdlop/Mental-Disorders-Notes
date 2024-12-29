@@ -32,6 +32,7 @@ This repository contains notes and information about various mental disorders. T
 - [Conversion disorder](#conversion-disorder)
 - [Things aren't what they look like disorder](#things-arent-what-they-look-like-disorder)
 - [Exploding Head Syndrome](#exploding-head-syndrome)
+- [Psychology Experiments](#psychology-experiments)
 
 ## Anxiety disorders
 Excessive fear and worry
@@ -207,13 +208,35 @@ The phrase "things aren't what they look like" can metaphorically describe a ran
 ## Exploding Head Syndrome
 It sounds like your eardrum is too sensitive
 
-## How to Contribute
-We welcome contributions from the community! If you would like to contribute to this repository, please follow these steps:
-1. Fork the repository
-2. Create a new branch for your feature or bugfix
-3. Make your changes and commit them with clear and descriptive messages
-4. Push your changes to your forked repository
-5. Create a pull request to the main repository
+## Psychology Experiments
+This section lists and describes various psychology experiment scripts available in this repository. These scripts are created using PsychoPy, a popular tool for creating experiments in psychology, neuroscience, and psychophysics.
 
-## How to Report Issues or Request New Features
-If you encounter any issues or have suggestions for new features, please open an issue in the repository. Provide as much detail as possible to help us understand and address your request.
+### ChineseDictionary.py
+This script simulates a conversation with a Chinese dictionary. Users can type questions, and the script generates responses that may be human-like or dictionary-based.
+
+### Imposter Syndrome Study.py
+This script is designed to study imposter syndrome. Participants are presented with tasks and asked to rate their confidence and perceived competence after each task.
+
+### erase_memory_button.py
+This script creates an interface with an "erase memory" button. When the button is clicked, it simulates erasing a list of memories.
+
+### loot_shiny.py
+This script creates a visual stimulus with gradient colors, simulating a shiny object. It is used to study visual perception and attention.
+
+### OneWayCommunicaiton.py
+This script displays a series of messages to the participant, simulating a one-way communication scenario. It is used to study attention and memory.
+
+### phantom_limbs.py
+This script creates visual stimuli representing limbs. It is used to study the perception of phantom limbs in individuals with amputations.
+
+### remote-show-and-tell.py
+This script simulates a "show and tell" activity where participants describe an object or idea. It is used to study communication and descriptive abilities.
+
+### stare-at-the-center.py
+This script creates a visual stimulus with a red circle at the center of the screen. Participants are instructed to stare at the center, and the script is used to study visual fixation and attention.
+
+### stimuli.py
+This script creates a text stimulus and plays a sound. It is used to study the interaction between visual and auditory stimuli.
+
+### yes-or-no.py
+This script simulates a decision-making task where participants press a button to make a random decision. It is used to study decision-making processes and randomness.
