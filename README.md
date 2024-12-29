@@ -235,6 +235,18 @@ This script simulates a "show and tell" activity where participants describe an 
 ### stare-at-the-center.py
 This script creates a visual stimulus with a red circle at the center of the screen. Participants are instructed to stare at the center, and the script is used to study visual fixation and attention.
 
+## How to Contribute
+We welcome contributions from the community! If you would like to contribute to this repository, please follow these steps:
+1. Fork the repository
+2. Create a new branch for your feature or bugfix
+3. Make your changes and commit them with clear and descriptive messages
+4. Push your changes to your forked repository
+5. Create a pull request to the main repository
+
+## How to Report Issues or Request New Features
+If you encounter any issues or have suggestions for new features, please open an issue in the repository. Provide as much detail as possible to help us understand and address your request.
+
+
 ### stimuli.py
 This script creates a text stimulus and plays a sound. It is used to study the interaction between visual and auditory stimuli.
 
